@@ -1,6 +1,6 @@
 # Table of Contents
 
-[Introduction](introduction.ipynb)
+[Introduction](intro.ipynb)
 
 [Installation: conda, bokeh, etc](installation.ipynb)
 
