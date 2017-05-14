@@ -11,8 +11,10 @@
 1. [More Examples](more_examples.ipynb)
 1. [Resources](resources.ipynb)
 
-<center>
-|Next|
-|------:|
+
+
+| Next |
+|:------:|
 |[Introduction](./intro.ipynb) >>> |
-</center>
+
+
