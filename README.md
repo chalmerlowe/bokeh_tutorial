@@ -10,3 +10,8 @@
 1. [Charting Your Course](charting_your_course.ipynb)
 1. [More Examples](more_examples.ipynb)
 1. [Resources](resources.ipynb)
+
+
+|Next|
+|------:|
+|[Introduction](./intro.ipynb)|
